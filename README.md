@@ -20,9 +20,9 @@
 
 ---
 
-## 🖥️ Установка и использование
+## ⚙️ Установка и использование
 
-### Windows (AutoHotKey)
+### 🖥️ Windows (AutoHotKey)
 
 1. 📥 Установите [AutoHotKey](https://www.autohotkey.com/).
 2. 📂 Откройте файл `PasteWithLayout.ahk`.
@@ -33,7 +33,7 @@
 
 ---
 
-### macOS (Hammerspoon)
+### 🍎 macOS (Hammerspoon)
 
 1. 📥 Установите [Hammerspoon](https://www.hammerspoon.org/).
 2. 🛠️ Откройте конфигурацию (`Open Config`).
