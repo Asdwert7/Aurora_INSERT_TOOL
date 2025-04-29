@@ -3,9 +3,6 @@
   <a href="https://boosty.to/asdwert7?share=ios_blog_link" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="купи мне кофе))" height="40">
   </a>
-  <a href="https://patreon.com/ваш_логин" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" height="40">
-  </a>
 </p>
 # 🚀 Auto Typing Script (Paste With Layout)
 
