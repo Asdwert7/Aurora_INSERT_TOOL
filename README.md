@@ -1,5 +1,5 @@
 ## 🎁 Поддержать проект  
-<p align="center">
+<p align="left">
   <a href="https://boosty.to/asdwert7?share=ios_blog_link" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="купи мне кофе))" height="40">
   </a>
