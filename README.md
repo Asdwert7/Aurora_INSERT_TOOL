@@ -4,13 +4,13 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="купи мне кофе))" height="40">
   </a>
 </p>
-# 🚀 Auto Typing Script (Paste With Layout)
+
 <a href="https://t.me/Asdwert7" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-💬_Личная_связь-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact">
 </a>
 
 
-
+# 🚀 Auto Typing Script (Paste With Layout)
 Автоматический интеллектуальный набор текста с имитацией живого человека, эмоциями, опечатками и красивым прогресс-баром.  
 Поддержка двух платформ: **Windows (AutoHotKey)** и **macOS (Hammerspoon)**.
 
