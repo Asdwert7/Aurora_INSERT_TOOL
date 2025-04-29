@@ -8,6 +8,9 @@
 <a href="https://t.me/Asdwert7" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-💬_Личная_связь-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact">
 </a>
+
+
+
 Автоматический интеллектуальный набор текста с имитацией живого человека, эмоциями, опечатками и красивым прогресс-баром.  
 Поддержка двух платформ: **Windows (AutoHotKey)** и **macOS (Hammerspoon)**.
 
