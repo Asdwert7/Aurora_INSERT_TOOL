@@ -128,3 +128,4 @@
 Copyright (c) 2024 [Asdwert7]
 Подробности в файле LICENSE
 ```
+
